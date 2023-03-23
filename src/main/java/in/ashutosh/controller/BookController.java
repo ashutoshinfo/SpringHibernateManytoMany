@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import in.ashutosh.Entity.game2.Book;
-import in.ashutosh.Entity.json.BookRequest;
+import in.ashutosh.Entity.json.value.BookRequest;
 import in.ashutosh.service.BookService;
 
 @RestController

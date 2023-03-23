@@ -1,4 +1,4 @@
-package in.ashutosh.Entity.json;
+package in.ashutosh.Entity.json.value;
 
 import lombok.Getter;
 import lombok.Setter;

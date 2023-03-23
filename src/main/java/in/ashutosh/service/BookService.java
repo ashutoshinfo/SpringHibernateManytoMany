@@ -10,8 +10,8 @@ import org.springframework.stereotype.Service;
 
 import in.ashutosh.Entity.game2.Author;
 import in.ashutosh.Entity.game2.Book;
-import in.ashutosh.Entity.json.AuthorRequest;
-import in.ashutosh.Entity.json.BookRequest;
+import in.ashutosh.Entity.json.value.AuthorRequest;
+import in.ashutosh.Entity.json.value.BookRequest;
 import in.ashutosh.reposetory.AuthorRepository;
 import in.ashutosh.reposetory.BookReposetory;
 
